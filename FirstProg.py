@@ -1,6 +1,0 @@
-print("Welcome to Python Training") 
-print(5+10)
-print(25-10)
-print(45-30)
-print(55/30)
-print(55/30)
