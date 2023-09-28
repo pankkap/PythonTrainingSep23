@@ -1,0 +1,5 @@
+Collection: Data Structure
+1. List : Sequential Storage of Data
+2. Tuple: Sequential, Immutable
+3. set: Not-Sequential, Mutable
+4. Dictionary: Mutable, customize indexing, Object(key, value)
